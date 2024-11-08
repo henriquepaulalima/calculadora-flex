@@ -9,6 +9,7 @@ export default function Body({children}) {
 
 const styles = StyleSheet.create({
   body: {
-    margin: 8
+    margin: 8,
+    flex: 1
   },
 });
